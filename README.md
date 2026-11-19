@@ -148,8 +148,8 @@ linux-infrastructure-lab/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/reisops/linux-infrastructure-lab.git
-cd linux-infrastructure-lab
+git clone https://github.com/reisops/enterprise-linux-lab.git
+cd enterprise-linux-lab
 
 # 2. Run VM1 setup (Core Services) — execute as root
 chmod +x scripts/setup/vm1-setup.sh
